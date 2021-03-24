@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/k_means.cc
+k_means.h
+D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/k_means.h
+
+D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/k_means.h
+random
+-
+vector
+-
+string
+-
+algorithm
+-
+functional
+-
+cstdlib
+-
+numeric
+-
+
+D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/lasso_k_means.cc
+lasso_k_means.h
+D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/lasso_k_means.h
+
+D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/lasso_k_means.h
+k_means.h
+D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/k_means.h
+
+D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/main.cpp
+iostream
+-
+k_means.h
+D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/k_means.h
+

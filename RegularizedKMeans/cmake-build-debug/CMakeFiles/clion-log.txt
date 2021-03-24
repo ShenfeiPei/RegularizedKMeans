@@ -1,0 +1,4 @@
+D:\app\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/cmake-build-debug

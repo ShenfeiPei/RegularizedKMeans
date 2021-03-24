@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Balanced_kmeans"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Balanced_kmeans">
+				<Option output="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/cmake-build-debug/Balanced_kmeans.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.28.29333\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 Balanced_kmeans"/>
+					<CompileFile command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Balanced_kmeans/fast">
+				<Option output="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/cmake-build-debug/Balanced_kmeans.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.28.29333\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 Balanced_kmeans/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\IDEAL_NPU_windows\IDEAL_NPU\cluster\Balanced_kmeans\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/CenterBasedClustering.cpp">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/CenterBasedClustering.h">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/k_means.cpp">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/k_means.h">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/lasso_k_means.cpp">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/lasso_k_means.h">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/main.cpp">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/network_simplex.cpp">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/network_simplex.h">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/regularized_k_means.cpp">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/regularized_k_means.h">
+			<Option target="Balanced_kmeans"/>
+		</Unit>
+		<Unit filename="D:/IDEAL_NPU_windows/IDEAL_NPU/cluster/Balanced_kmeans/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
