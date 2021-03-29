@@ -1,8 +1,7 @@
 import sys
 import numpy as np
-from RegularizedKMeans import RegularizedKMeans
-import funs as Ifuns
-import funs_metric as Mfuns
+from RegularizedKMeans_pack.RegularizedKMeans import RegularizedKMeans
+from RegularizedKMeans_pack.Public import Ifuns, Mfuns
 
 X, y_true, N, dim, c_true = Ifuns.load_mat("./dataset/wine.mat")
 print(N, dim, c_true)
